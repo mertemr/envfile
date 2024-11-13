@@ -31,7 +31,7 @@ inputs:
     required: false
     description: 'Override existing environment variables'
 runs:
-  using: 'node16'
+  using: 'node20'
   main: 'dist/index.js'
 branding:
   icon: command
