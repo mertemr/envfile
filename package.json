@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thaind0/secrets-to-dotenv-action.git"
+    "url": "git+https://github.com/0ndt/envfile.git"
   },
   "keywords": [
     "actions",
