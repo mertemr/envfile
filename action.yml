@@ -1,6 +1,6 @@
 name: 'Export all secrets to environment variables and write to file'
 description: 'Utility action that exports all github secrets environment variables and write to file.'
-author: '0ndt'
+author: 'mertemr'
 inputs:
   secrets:
     required: true

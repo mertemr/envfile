@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0ndt/envfile.git"
+    "url": "git+https://github.com/mertemr/envfile.git"
   },
   "keywords": [
     "actions",
@@ -35,7 +35,7 @@
     "@types/jest": "^29.4.0",
     "@types/node": "^20.4.2",
     "@typescript-eslint/parser": "^5.61.0",
-    "@vercel/ncc": "^0.36.1",
+    "@vercel/ncc": "^0.38.3",
     "eslint": "^8.45.0",
     "eslint-plugin-github": "^4.6.0",
     "eslint-plugin-jest": "^27.2.1",
