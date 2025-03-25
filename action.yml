@@ -30,9 +30,14 @@ inputs:
   override:
     required: false
     description: 'Override existing environment variables'
+  clean:
+    required: false
+    description: 'Delete the file after the workflow. Default: true'
+    default: 'true'
 runs:
   using: 'node20'
   main: 'dist/index.js'
+  post: 'dist/index.js'
 branding:
   icon: command
   color: blue
